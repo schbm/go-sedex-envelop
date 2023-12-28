@@ -1,7 +1,7 @@
 # go-sedex-envelop
 Version 28.12.2023
 
-This go packages provides definitions for the sedex envelop standard eCH-0090.
+This go packages provides definitions for the envelop standard eCH-0090 used by sedex (secure data exchange).
 
 # Misc
 "Der Bund stellt im Rahmen der Registerharmonisierung eine Plattform für den sicheren Datenaustausch zur Verfügung. Diese Plattform, sedex (steht für: secure data exchange), 
@@ -12,7 +12,7 @@ genommen werden.
 Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format für Versandumschläge verwenden."[6]
 
 # Receipt Codes
-These codes are not defined in the documentation of the standard.
+These codes are not defined in the envelop standard, but in the documentation of sedex.
 
 | Code    |   Remark |
 |----------|:-------------:|
