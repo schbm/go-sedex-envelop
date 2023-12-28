@@ -39,6 +39,7 @@ Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format
 501 |   Error during receiving
 601 |   Message successfully sent
 701 |   Message expires soon
+
 [7]
 
 # Sources
