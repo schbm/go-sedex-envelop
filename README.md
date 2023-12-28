@@ -12,32 +12,33 @@ genommen werden.
 Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format für Versandumschläge verwenden."[6]
 
 # Receipt Codes
-Code 	Remark
-100 	Message correctly transmitted
-200 	Invalid envelope syntax
-201 	Duplicate message ID
-202 	No payload found
-203 	Message too old to send
-204 	Message expired
-300 	Unknown sender ID
-301 	Unknown recipient ID
-302 	Unknown physical sender ID
-303 	Invalid message type
-304 	Invalid message class
-310 	Not allowed to send
-311 	Not allowed to receive
-312 	User certificate not valid
-313 	Other recipients are not allowed to receive
-330 	Message size exceeds limit
-400 	Network error
-401 	OSCI hub not reachable
-402 	Folder not reachable
-403 	Logging service not reachable
-404 	Authorization service not reachable
-500 	Internal error
-501 	Error during receiving
-601 	Message successfully sent
-701 	Message expires soon
+| Code    |   Remark |
+|----------|:-------------:|
+100 |   Message correctly transmitted
+200 |   Invalid envelope syntax
+201 |   Duplicate message ID
+202 |   No payload found
+203 |   Message too old to send
+204 |   Message expired
+300 |   Unknown sender ID
+301 |   Unknown recipient ID
+302 |   Unknown physical sender ID
+303 |   Invalid message type
+304 |   Invalid message class
+310 |   Not allowed to send
+311 |   Not allowed to receive
+312 |   User certificate not valid
+313 |   Other recipients are not allowed to receive
+330 |   Message size exceeds limit
+400 |   Network error
+401 |   OSCI hub not reachable
+402 |   Folder not reachable
+403 |   Logging service not reachable
+404 |   Authorization service not reachable
+500 |   Internal error
+501 |   Error during receiving
+601 |   Message successfully sent
+701 |   Message expires soon
 [7]
 
 # Sources
