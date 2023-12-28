@@ -1,6 +1,5 @@
 package v2
 
-// ErrorCode represents error codes with their corresponding messages
 type ReceiptCode int
 
 const (
