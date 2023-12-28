@@ -6,15 +6,12 @@ Version 28.12.2023
 This go packages provides definitions for the sedex envelop standard eCH-0090.
 
 # Misc
-"Der Bund stellt im Rahmen der Registerharmonisierung eine Plattform für den sicheren Da-
-tenaustausch zur Verfügung. Diese Plattform, sedex (steht für: secure data exchange), er-
-möglicht einen sicheren Datenaustausch zwischen den Personenregistern des Bundes und
-den kantonalen und kommunalen Einwohnerregistern und die Datenlieferung an das Bun-
-desamt für Statistik.
+"Der Bund stellt im Rahmen der Registerharmonisierung eine Plattform für den sicheren Datenaustausch zur Verfügung. Diese Plattform, sedex (steht für: secure data exchange), 
+ermöglicht einen sicheren Datenaustausch zwischen den Personenregistern des Bundes und
+den kantonalen und kommunalen Einwohnerregistern und die Datenlieferung an das Bundesamt für Statistik.
 Unter Federführung des Bundesamts für Statistik wird sedex am 15. Januar 2008 in Betrieb
 genommen werden.
-Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format für Ver-
-sandumschläge verwenden."[6]
+Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format für Versandumschläge verwenden."[6]
 
 # Sources
 - [1] bfs, sedex, web, https://www.bfs.admin.ch/bfs/de/home/register/personenregister/sedex.html, 28.12.2023
