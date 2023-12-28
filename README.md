@@ -1,5 +1,6 @@
 # go-sedex-envelop
 Version 28.12.2023
+
 This go packages provides definitions for the sedex envelop standard eCH-0090.
 
 # Misc
