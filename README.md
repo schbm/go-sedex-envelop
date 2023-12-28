@@ -12,6 +12,8 @@ genommen werden.
 Systeme, die an sedex partizipieren sollen, müssen das hier beschriebene Format für Versandumschläge verwenden."[6]
 
 # Receipt Codes
+These codes are not defined in the documentation of the standard.
+
 | Code    |   Remark |
 |----------|:-------------:|
 100 |   Message correctly transmitted
