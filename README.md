@@ -5,6 +5,7 @@ Version 28.12.2023
 
 This go packages provides definitions for the sedex envelop standard eCH-0090.
 
+# Misc
 (...) Der Bund stellt im Rahmen der Registerharmonisierung eine Plattform für den sicheren Da-
 tenaustausch zur Verfügung. Diese Plattform, sedex (steht für: secure data exchange), er-
 möglicht einen sicheren Datenaustausch zwischen den Personenregistern des Bundes und
