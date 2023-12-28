@@ -51,4 +51,4 @@ These codes are not defined in the documentation of the standard.
 - [4] eCH., sedex schema v1, web, https://www.ech.ch/de/xmlns/eCH-0090/1/eCH-0090-1-0.xsd, 28.12.2023
 - [5] eCH., sedex schema v2, web,http://www.ech.ch/de/xmlns/eCH-0090/2/eCH-0090-2-0.xsd, 28.12.2023
 - [6] Meldewesen, Michel Gentile, Igor Metz, Andres Scheidegger, eCH-0090 – Sedex Umschlag, Web http://www.ech.ch/sites/default/files/dosvers/hauptdokument/STAN_d_DEF_2019-09-19_eCH-0090_V2.0_Sedex%20Umschlag.pdf
-- [7] sedex, User documentation for the sedex Client, Web, https://docs.sedex.admin.ch/sedex-client/appendix/receipt-versions/, 28.12.2023
+- [7] sedex, User documentation for the sedex Client - appendix, Web, https://docs.sedex.admin.ch/sedex-client/appendix/receipt-versions/, 28.12.2023
